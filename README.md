@@ -7,4 +7,6 @@ Basically followed Scott Allen's Angular JS: Get Started course from Pluralsight
 
 Live Demo available at http://githubviewr.azurewebsites.net
 
+Check out my profile @ http://hackhands.com/nandotech
+
 That's all, thanks!
